@@ -1,6 +1,6 @@
 {
   "name": "@feecting/arcdeva",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Arcade Deva",
   "main": "index.js",
   "scripts": {
