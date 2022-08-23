@@ -1,0 +1,26 @@
+{
+  "name": "@indra.ai/arcdeva",
+  "version": "0.0.1",
+  "description": "The Arcade Deva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indraai/ArcDeva.git"
+  },
+  "keywords": [
+    "Arcade",
+    "Deva"
+  ],
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indraai/ArcDeva/issues"
+  },
+  "dependencies": {
+    "@indra.ai/deva": "^1.0.25"
+  },
+  "homepage": "https://github.com/indraai/ArcDeva#readme"
+}
