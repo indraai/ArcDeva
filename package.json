@@ -1,5 +1,5 @@
 {
-  "name": "@feecting/arcdeva",
+  "name": "@indra.ai/arcdeva",
   "version": "0.0.3",
   "description": "The Arcade Deva",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "url": "https://github.com/indraai/ArcDeva/issues"
   },
   "dependencies": {
-    "@feecting/deva": "^1.0.25"
+    "@indra.ai/deva": "^1.0.25"
   },
   "homepage": "https://github.com/indraai/ArcDeva#readme"
 }
